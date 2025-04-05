@@ -1,2 +1,2 @@
-Various files to use for research paper
-Each file is a different Time Series and different grouping based on MBTA line
+Various files to use for research paper.
+Each file is from Jan. 1 2022, to Jan. 31 2025
